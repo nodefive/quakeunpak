@@ -1,4 +1,4 @@
-# PAK Extractor
+# Quake 1 PAK Extractor
 
 A Python 3 script designed to extract contents from Quake 1 `.pak` archive files.
 
